@@ -4,9 +4,11 @@ h1{
 }
 h2{
 	color: red;
+
 }
 .rounded{
 	border-radius: 25px;
+	border: 2px white;
 }
 nav a{
 	text-decoration:none;
@@ -21,4 +23,5 @@ nav{
 body{
 	padding-left: 0px;
 	margin-bottom: 10px;
+	font-family:'Roboto',serif;
 }
